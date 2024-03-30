@@ -5,3 +5,6 @@
 ###### The required technologies and software are following
 - Python 3
 - `requests` library
+
+#### Data Source
+- https://data.covid19india.org/v4/min/timeseries.min.json
